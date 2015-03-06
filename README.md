@@ -5,6 +5,8 @@
   1. [Git](#git)
   2. [Javascript](#js)
 
+  3. [For Framework learning](#frameworks)
+
 #### Git:
 
 * [Pro git (eng)](https://progit.org/)
@@ -18,3 +20,7 @@
 * [Addy Osmani Book](addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Weekly](http://javascriptweekly.com/)
 * [Javascript patterns](http://shop.oreilly.com/product/9780596806767.do)
+
+#### For frameworks:
+
+* [MVVM](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
