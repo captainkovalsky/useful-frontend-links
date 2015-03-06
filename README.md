@@ -18,10 +18,12 @@
 
 #### JS:
 
+* [Javascript Development](http://www.apress.com/9781430262688)
 * [Addy Osmani Book](addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Weekly](http://javascriptweekly.com/)
 * [Javascript patterns](http://shop.oreilly.com/product/9780596806767.do)
 * [JS without jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/)
+* [might not need jQuery](http://youmightnotneedjquery.com/)
 
 #### CSS:
 
