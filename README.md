@@ -4,8 +4,9 @@
 
   1. [Git](#git)
   2. [Javascript](#js)
-  3. [For Framework learning](#for-frameworks)
-  4. [Node js](#nodeJS)
+  3. [CSS](#css)
+  4. [For Framework learning](#for-frameworks)
+  5. [Node js](#nodeJS)
 
 #### Git:
 
@@ -20,6 +21,13 @@
 * [Addy Osmani Book](addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Weekly](http://javascriptweekly.com/)
 * [Javascript patterns](http://shop.oreilly.com/product/9780596806767.do)
+* [JS without jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/)
+
+#### CSS:
+
+* [BEM](https://ru.bem.info/method/)
+* [Css preprocessors war](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320)
+* [Modular css](http://thesassway.com/modular-css)
 
 #### For frameworks:
 
