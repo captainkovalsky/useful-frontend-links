@@ -4,8 +4,8 @@
 
   1. [Git](#git)
   2. [Javascript](#js)
-
-  3. [For Framework learning](#frameworks)
+  3. [For Framework learning](#for-frameworks)
+  4. [Node js](#nodeJS)
 
 #### Git:
 
@@ -24,3 +24,11 @@
 #### For frameworks:
 
 * [MVVM](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+* [Angular JS](https://docs.angularjs.org/guide)
+* [Angular js learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [Angular FAQ](https://github.com/angular/angular.js/wiki/FAQ)
+
+#### nodeJS:
+
+* [Professional Node JS](http://www.wrox.com/WileyCDA/WroxTitle/Professional-Node-js-Building-Javascript-Based-Scalable-Software.productCd-1118185463.html)
+* [web framework for node](http://expressjs.com/)
