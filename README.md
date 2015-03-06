@@ -3,7 +3,7 @@
 ## Table of Contents
 
   1. [Git](#git)
-  2. [Javascript](#JS)
+  2. [Javascript](#js)
 
 #### Git:
 
