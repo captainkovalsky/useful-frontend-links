@@ -3,7 +3,7 @@
 ## Table of Contents
 
   1. [Git](#git)
-  2. [Javascript](#js)
+  2. [Javascript](#JS)
 
 #### Git:
 
@@ -13,7 +13,7 @@
 * [Visual git reference(rus)](https://marklodato.github.io/visual-git-guide/index-ru.html)
 
 
-#### Javascript:
+#### JS:
 
 * [Addy Osmani Book](addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Javascript Weekly](http://javascriptweekly.com/)
